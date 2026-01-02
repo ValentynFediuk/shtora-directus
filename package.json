@@ -1,0 +1,9 @@
+{
+  "name": "directus-project",
+  "dependencies": {
+    "directus": "^11.0.0"
+  },
+  "scripts": {
+    "start": "directus start"
+  }
+}
